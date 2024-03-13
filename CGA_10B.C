@@ -9,7 +9,7 @@ void main()
   {
     settextstyle(random(font),random(dir),random(size));
     setcolor(random(color));
-    outtextxy(random(col),random(row),"Siddhesh");
+    outtextxy(random(col),random(row),"hELOO WORLD");
     delay(250);
   }
   getch();
